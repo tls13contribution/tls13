@@ -4,9 +4,10 @@ LD=gcc
 CFLAGS=-o
 CLIENT_SRC=crawler.c
 OBJS=crawler.o
+LBITS=$(shell getconf LONG_BIT)
+
 FLAGS=-I../openssl-1.1.1/include
 LDFLAGS=-L../openssl-1.1.1/lib -lssl -lcrypto -ldl
-GDB=gdb
 
 default: crawler
 
