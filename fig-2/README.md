@@ -1,4 +1,4 @@
-# Deployment
+# Adoption
 
 ## Objective
 The scripts in this directory aim to analyze the connection logs and to see the number of the connections per particular TLS version on a daily basis.
