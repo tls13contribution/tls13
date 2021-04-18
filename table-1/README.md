@@ -12,4 +12,4 @@ The directories that contain logs should be structured as follows:
 \<root\>/\<date\>/\<000-999\>/\<log files\> (e.g., tls-connections/2020-10-01/375/375890.log)
 
 ## How to Use
-Run the `count_total_period.py' on the root of the log directories and then `version.py' on the same directory
+Run the `count_total_period.py` on the root of the log directories and then `version.py` on the same directory
