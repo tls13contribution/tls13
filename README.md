@@ -3,6 +3,11 @@
 ## Objective
 This repository aims to publicize the dataset and the scripts used in the paper "TLS 1.3 in Practice: How TLS 1.3 Contributes to the Internet (thewebconf 2021)".
 
+## Dataset
+You can find all the datasets used in the paper at:
+
+[dataset] (https://virginia.box.com/s/87fvynxfuz5zqxwnaxd4mqnm9hiq0obu)
+
 ## Organization
 This repository is organized as follows:
 
